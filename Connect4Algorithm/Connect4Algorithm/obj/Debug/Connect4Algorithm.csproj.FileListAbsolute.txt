@@ -1,0 +1,9 @@
+C:\Users\ethan\source\repos\Connect4Algorithm\Connect4Algorithm\bin\Debug\Connect4Algorithm.exe.config
+C:\Users\ethan\source\repos\Connect4Algorithm\Connect4Algorithm\bin\Debug\Connect4Algorithm.exe
+C:\Users\ethan\source\repos\Connect4Algorithm\Connect4Algorithm\bin\Debug\Connect4Algorithm.pdb
+C:\Users\ethan\source\repos\Connect4Algorithm\Connect4Algorithm\obj\Debug\Connect4Algorithm.csprojAssemblyReference.cache
+C:\Users\ethan\source\repos\Connect4Algorithm\Connect4Algorithm\obj\Debug\Connect4Algorithm.Form1.resources
+C:\Users\ethan\source\repos\Connect4Algorithm\Connect4Algorithm\obj\Debug\Connect4Algorithm.Properties.Resources.resources
+C:\Users\ethan\source\repos\Connect4Algorithm\Connect4Algorithm\obj\Debug\Connect4Algorithm.csproj.GenerateResource.cache
+C:\Users\ethan\source\repos\Connect4Algorithm\Connect4Algorithm\obj\Debug\Connect4Algorithm.exe
+C:\Users\ethan\source\repos\Connect4Algorithm\Connect4Algorithm\obj\Debug\Connect4Algorithm.pdb
